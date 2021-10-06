@@ -1,0 +1,5 @@
+F:\documents and settings\geforce\my documents\visual studio 2010\Projects\Bank_Projects\Bank_Projects\bin\Debug\Bank_Projects.exe
+F:\documents and settings\geforce\my documents\visual studio 2010\Projects\Bank_Projects\Bank_Projects\bin\Debug\Bank_Projects.pdb
+F:\documents and settings\geforce\my documents\visual studio 2010\Projects\Bank_Projects\Bank_Projects\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\documents and settings\geforce\my documents\visual studio 2010\Projects\Bank_Projects\Bank_Projects\obj\x86\Debug\Bank_Projects.exe
+F:\documents and settings\geforce\my documents\visual studio 2010\Projects\Bank_Projects\Bank_Projects\obj\x86\Debug\Bank_Projects.pdb
